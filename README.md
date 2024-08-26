@@ -5,8 +5,11 @@ Este proyecto es una aplicación web simple y efectiva que permite encriptar y d
 
 Características:
 Encriptación: Convierte texto claro en texto cifrado mediante un algoritmo de desplazamiento de caracteres.
+
 Desencriptación: Restaura el texto original a partir del texto cifrado.
+
 Función de Copiado: Copia fácilmente el texto cifrado o desencriptado al portapapeles con un solo clic.
+
 Interfaz Amigable: Diseño atractivo con un estilo que evoca un camaleo robotico inspirado en la capacidad de estos animales en camuflarse, utilizando colores verdes y azules.
 
 Tecnologías Utilizadas:
